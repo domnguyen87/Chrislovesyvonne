@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import HeadWrapper from "./components/HeadWrapper"
-import RevolutionSlider from './components/RevolutionSlider'
+import HeadWrapper from './components/HeadWrapper.js'
+import RevolutionSlider from './components/RevolutionSlider.js'
 
 class App extends Component {
   render() {
@@ -13,8 +13,7 @@ class App extends Component {
           </div>
           {/* <!-- Header Wrapper Start --> */}
           <HeadWrapper />
-          {/* <RevolutionSlider /> */}
-
+          <RevolutionSlider />
         </React.Fragment>
     );
   }
