@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
+    <!-- <meta charset="utf-8" />
     <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-    <meta name="theme-color" content="#000000" />
+    <meta name="theme-color" content="#000000" /> -->
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -22,7 +22,29 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+
+    <meta charset="utf-8" />
+    <title>Chris And Yvonne</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta name="description"  content="Wedding"/>
+    <meta name="keywords" content="Wedding, Marriage, Event, party, function" />
+    <meta name="author"  content=""/>
+    <meta name="MobileOptimized" content="320" />
+    <!--srart theme style -->
+    <link rel="stylesheet" type="text/css" href="css/animate.css"/>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
+    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.css"/>
+    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css"/>
+    <link rel="stylesheet" type="text/css" href="css/fonts.css"/>
+    <link rel="stylesheet" type="text/css" href="js/plugin/rs_slider/layers.css"/>
+    <link rel="stylesheet" type="text/css" href="js/plugin/rs_slider/navigation.css"/>
+    <link rel="stylesheet" type="text/css" href="js/plugin/rs_slider/settings.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <!-- favicon links -->
+    <link rel="shortcut icon" type="image/ico" href="images/header/favicon.ico" />
+    
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -37,5 +59,40 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+    <!--main js file start--> 
+    <script type="text/javascript" src="js/jquery.js"></script> 
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/owl.carousel.js"></script>
+    <script type="text/javascript" src="js/modernizr.js"></script>
+    <script type="text/javascript" src="js/jquery.magnific-popup.js"></script>
+    <script type="text/javascript" src="js/wow.js"></script>
+    <script type="text/javascript" src="js/smoothscroll.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.addon.snow.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="js/plugin/rs_slider/revolution.extension.video.min.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
+    <script>
+    $(window).on("load", function() {
+    		var wow = new WOW({
+    			boxClass: 'wow',
+    			animateClass: 'animated',
+    			offset: 0,
+    			mobile: true,
+    			live: true
+    		});
+    		wow.init();
+    	});
+    </script>
+<!--main js file end-->
   </body>
 </html>
