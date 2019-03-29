@@ -1172,7 +1172,7 @@ class App extends Component {
                 </div>
               </div>
               <div class="wd_footer_bottom_wrapper wd_toppadder50 wd_bottompadder50">
-                <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></a>
+            <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style={{ display: "none" }}><i class="fa fa-long-arrow-up" aria-hidden="true"></i></a>
                 <div class="col-md-12">
                   <div class="wd_footer_section">
                     <img src="images/header/flogo.png" alt="Logo" class="img-responsive" />
