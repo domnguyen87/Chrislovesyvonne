@@ -134,7 +134,7 @@ class App extends Component {
 
                         style={{ zIndex: "8", whiteSpace: "nowrap", fontWeight: "600", color: "rgba(255, 255, 255, 1.00)", display: "inline-block", float: "left" }}>
                           <img src="images/header/name.png" alt="Slider_Image" class="img-responsive img1" />
-                          <h3>20 may 2018</h3>
+                          <h3>20 october 2019</h3>
                           <h1>Save The Date</h1>
                           <div class="clearfix"></div>
                           <img src="images/content/heading.png" alt="Heading" class="img-responsive img2" />
@@ -231,7 +231,7 @@ class App extends Component {
 
                         style={{ zIndex: "8", whiteSpace: "nowrap", fontSize: "110px", lineHeight: "100px", fontWeight: "600", color: "rgba(255, 255, 255, 1.00)", display: "inline-block", fontFamily: "Poppins" }}>
                             <img src="images/header/name.png" alt="Slider Image" class="img-responsive img1" />
-                            <h3>20 may 2018</h3>
+                            <h3>05 oct 2019</h3>
                             <h1>Save The Date</h1>
                             <img src="images/content/heading.png" alt="Heading" class="img-responsive img2" /></div>
                         </div>
@@ -324,7 +324,7 @@ class App extends Component {
 
                         style={{ zIndex: "8", whiteSpace: "nowrap", fontSize: "110px", lineHeight: "100px", fontWeight: "600", color: "rgba(255, 255, 255, 1.00)", display: "inline-block", fontFamily: "Poppins", float: "right" }}>
                               <img src="images/header/name.png" alt="Slider Image" class="img-responsive img1" />
-                              <h3>20 may 2018</h3>
+                              <h3>05 october 2019</h3>
                               <h1>Save The Date</h1>
                               <div class="clearfix"></div>
                               <img src="images/content/heading.png" alt="Heading" class="img-responsive img2" /></div>
@@ -361,7 +361,7 @@ class App extends Component {
                         <span><img src="images/content/line.png" alt="Line" class="img-responsive" /></span>
                           <img src="images/content/groom.png" alt="Groom" class="img-responsive" />
 					            </div>
-                          <h2>Mark Wills</h2>
+                          <h2>Chris Tan</h2>
                           <p>(S/o Mrs. Jeniffer & Mr. Clark Wills)</p>
                           <ul>
                             <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -376,7 +376,7 @@ class App extends Component {
                             <span><img src="images/content/line.png" alt="Line" class="img-responsive" /></span>
                               <img src="images/content/bride.png" alt="Groom" class="img-responsive" />
 					                </div>
-                              <h2>Jenny Bellucci</h2>
+                              <h2>Yvonne Nguyen</h2>
                               <p>(D/o Mrs. Merry & Mr. Jhon Bellucci)</p>
                               <ul>
                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -391,7 +391,7 @@ class App extends Component {
                               <div class="wd_about_infobox_date">
                                 <p>We inviting you and your family on</p>
                                 <h3>Saturday</h3>
-                                <h2>20 May 2019</h2>
+                                <h2>05 October 2019</h2>
                                 <p>At St. Thomas's Church, London, U.K.</p>
                               </div>
                               <div class="wd_btn wd_single_index_menu_rsvp">
@@ -427,7 +427,7 @@ class App extends Component {
               <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                   <div class="wd_heading wow fadeInDown" data-wow-delay="0.3s">
-                    <h4>Jenny & Mark</h4>
+                    <h4>Yvonne & Chris</h4>
                     <h1>Our true love story</h1>
                     <img src="images/content/heading.png" alt="Heading" class="img-responsive" />
 				          </div>
@@ -441,10 +441,10 @@ class App extends Component {
                           <img src="images/content/story_1.jpg" alt="Story" />
 						              </div>
                           <div class="wd_story_covers_box_datails">
-                            <span>20 May 2010</span>
-                            <h1>Our First Met</h1>
+                            <span>27 Feburary 2018</span>
+                            <h1>The Proprosal</h1>
                             <span>That day changed Life</span>
-                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor...</p>
+                        <p>Rewind back to Valentine's Day.  I (Yvonne) had a hair appointment and thought it would be cute to send Chris a bouquet of red roses to JTTD that day.  Unfortunately, Chris was away when the roses were delivered.</p>
                           </div>
                         </div>
                         <div class="wd_story_covers_box_right">
@@ -489,10 +489,10 @@ class App extends Component {
                                   <img src="images/content/story_5.jpg" alt="Story" />
 						                      </div>
                                   <div class="wd_story_covers_box_datails">
-                                    <span>20 May 2010</span>
-                                    <h1>Now We Together</h1>
+                                    <span>01 June 2016</span>
+                                    <h1>The Journey Begins</h1>
                                     <span>We're waiting for the best</span>
-                                    <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor...</p>
+                                    <p>This was the day we received the keys to our new restaurant, now known as Journey to the Dumpling!</p>
                                   </div>
                                 </div>
                               </div>
@@ -535,7 +535,7 @@ class App extends Component {
                     </div>
                       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col-lg-pull-4 col-md-pull-4 col-sm-pull-0">
                         <div class="wd_event_infobox">
-                    <img src="images/content/event_img.gif" alt="Event Image" />
+                    {/* <img src="images/content/event_img.gif" alt="Event Image" /> */}
                             <div class="wd_btn wd_single_index_menu_rsvp">
                               <a href="4">rsvp</a>
                             </div>
@@ -560,7 +560,7 @@ class App extends Component {
                   </div>
                   <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="wd_guest_infobox">
-                      <h2>You’re Invited <span>Jenny & Mark</span> Wedding</h2>
+                      <h2>You’re Invited <span>Yvonne & Chris</span> Wedding</h2>
                       <h4>Please Rsvp Before 15 May 2017</h4>
                       <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor This is Photoshop's version  of Lorem Ipsum.</p>
                       <h2><span>Gift Registry</span></h2>
@@ -1040,7 +1040,7 @@ class App extends Component {
                         <div class="wd_blog_info">
                           <h3>Planning Honeymoon Trip</h3>
                           <ul>
-                            <li><a href="#"><i class="fa fa-calendar-o" aria-hidden="true"></i> 20 May 2017</a></li>
+                            <li><a href="#"><i class="fa fa-calendar-o" aria-hidden="true"></i> 05 October 2019</a></li>
                             <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 240 View</a></li>
                             <li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i> 143 Likes</a></li>
                           </ul>
