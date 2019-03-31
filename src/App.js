@@ -444,7 +444,7 @@ class App extends Component {
                             <span>27 Feburary 2018</span>
                             <h1>The Proprosal</h1>
                             <span>That day changed Life</span>
-                        <p>Rewind back to Valentine's Day.  I (Yvonne) had a hair appointment and thought it would be cute to send Chris a bouquet of red roses to JTTD that day.  Unfortunately, Chris was away when the roses were delivered.</p>
+                        <p>Rewind back to Valentine's Day.  I (Yvonne) had a hair appointment and thought it would be cute to send Chris a bouquet of red roses to JTTD that day.</p>
                           </div>
                         </div>
                         <div class="wd_story_covers_box_right">
@@ -668,8 +668,8 @@ class App extends Component {
                   <div class="wd_family_tabbox">
                     {/* <!-- Nav tabs --> */}
 				<ul class="nav nav-tabs" role="tablist">
-                    <li role="presentation" class="active"><a href="#groom" aria-controls="groom" role="tab" data-toggle="tab"><img src="images/content/tab1.jpg" alt="Groom" /><p>Mark</p></a></li>
-                    <li role="presentation"><a href="#bride" aria-controls="bride" role="tab" data-toggle="tab"><img src="images/content/tab2.jpg" alt="Bride" /><p>Jenny</p></a></li>
+                    <li role="presentation" class="active"><a href="#groom" aria-controls="groom" role="tab" data-toggle="tab"><img src="images/content/tab1.jpg" alt="Groom" /><p>Chris</p></a></li>
+                    <li role="presentation"><a href="#bride" aria-controls="bride" role="tab" data-toggle="tab"><img src="images/content/tab2.jpg" alt="Bride" /><p>Yvonne</p></a></li>
 				</ul>
                         {/* <!-- Tab panes --> */}
 				<div class="tab-content">
@@ -868,7 +868,7 @@ class App extends Component {
               <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                   <div class="wd_heading wow fadeInDown" data-wow-delay="0.3s">
-                    <h4>Jenny & Mark</h4>
+                    <h4>Yvonne & Chris</h4>
                     <h1>memorable photo gallery</h1>
                     <img src="images/content/heading.png" alt="Heading" class="img-responsive" />
 				</div>
