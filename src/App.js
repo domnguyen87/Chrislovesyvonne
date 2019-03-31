@@ -727,7 +727,7 @@ class App extends Component {
 										</div>
                                               </div>
                                             </div>
-                                            <div class="item">
+                                            {/* <div class="item">
                                               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                                 <div class="wd_family_infobox">
                                                   <div class="wd_family_infobox_img">
@@ -743,7 +743,7 @@ class App extends Component {
                                                       </ul>
 										</div>
                                                   </div>
-                                                </div>
+                                                </div> */}
                                                 <div class="item">
                                                   <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                                     <div class="wd_family_infobox">
