@@ -818,40 +818,8 @@ class App extends Component {
 										</div>
                                                                   </div>
                                                                 </div>
-                                                                <div class="item">
-                                                                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                                                    <div class="wd_family_infobox">
-                                                                      <div class="wd_family_infobox_img">
-                                  <span><img src="images/content/line2.png" alt="Line" /></span>
-                                  <img src="images/content/fm8.jpg" alt="Family" />
-											</div>
-                                                                          <h2>Donald</h2>
-                                                                          <p>(Jenny’s Brother)</p>
-                                                                          <ul>
-                                                                            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                                            <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                                            <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                                          </ul>
-										</div>
-                                                                      </div>
-                                                                    </div>
-                                                                    <div class="item">
-                                                                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                                                        <div class="wd_family_infobox">
-                                                                          <div class="wd_family_infobox_img">
-                                  <span><img src="images/content/line2.png" alt="Line" /></span>
-                                  <img src="images/content/fm5.jpg" alt="Family" />
-											</div>
-                                                                              <h2>Mr. Clark Wills</h2>
-                                                                              <p>(Jenny’s Father)</p>
-                                                                              <ul>
-                                                                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                                                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                                                                <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                                                              </ul>
-										</div>
-                                                                          </div>
-                                                                        </div>
+                                                                
+                                                                    
                                                                       </div>
                                                                     </div>
                                                                   </div>
