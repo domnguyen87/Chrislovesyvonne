@@ -93,7 +93,7 @@ export default class ImageSlider extends React.Component {
 
                                             style={{ zIndex: "8", whiteSpace: "nowrap", fontWeight: "600", color: "rgba(255, 255, 255, 1.00)", display: "inline-block", float: "left" }}>
                                             <img src="images/header/name.png" alt="Slider_Image" class="img-responsive img1" />
-                                            <h3>20 october 2019</h3>
+                                            <h3>20 october 2020</h3>
                                             <h1>Save The Date</h1>
                                             <div class="clearfix"></div>
                                             <img src="images/content/heading.png" alt="Heading" class="img-responsive img2" />
@@ -190,7 +190,7 @@ export default class ImageSlider extends React.Component {
 
                                             style={{ zIndex: "8", whiteSpace: "nowrap", fontSize: "110px", lineHeight: "100px", fontWeight: "600", color: "rgba(255, 255, 255, 1.00)", display: "inline-block", fontFamily: "Poppins" }}>
                                             <img src="images/header/name.png" alt="Slider Image" class="img-responsive img1" />
-                                            <h3>05 oct 2019</h3>
+                                            <h3>05 oct 2020</h3>
                                             <h1>Save The Date</h1>
                                             <img src="images/content/heading.png" alt="Heading" class="img-responsive img2" /></div>
                                     </div>
@@ -283,7 +283,7 @@ export default class ImageSlider extends React.Component {
 
                                             style={{ zIndex: "8", whiteSpace: "nowrap", fontSize: "110px", lineHeight: "100px", fontWeight: "600", color: "rgba(255, 255, 255, 1.00)", display: "inline-block", fontFamily: "Poppins", float: "right" }}>
                                             <img src="images/header/name.png" alt="Slider Image" class="img-responsive img1" />
-                                            <h3>05 october 2019</h3>
+                                            <h3>05 october 2020</h3>
                                             <h1>Save The Date</h1>
                                             <div class="clearfix"></div>
                                             <img src="images/content/heading.png" alt="Heading" class="img-responsive img2" /></div>

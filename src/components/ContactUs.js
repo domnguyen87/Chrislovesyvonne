@@ -52,7 +52,7 @@ export default class ContactUs extends React.Component{
                                         <i class="fa fa-map-marker" aria-hidden="true"></i>
                                     </div>
                                     <h2>Home</h2>
-                                    <p>110, B Kalani Bagh, Dewas M.P. INDIA #455001</p>
+                                    <p>928 Sunny St, Sacramento, CA 92093</p>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -61,7 +61,7 @@ export default class ContactUs extends React.Component{
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                     </div>
                                     <h2>Phone</h2>
-                                    <p>+ 91 12345 67890 <br /> +91 12345 78945</p>
+                                    <p>949-209-0292 <br /> 714-203-0390</p>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -70,13 +70,13 @@ export default class ContactUs extends React.Component{
                                         <i class="fa fa-envelope" aria-hidden="true"></i>
                                     </div>
                                     <h2>Email Us</h2>
-                                    <p>wedding@example.com <br />event@example.com</p>
+                                    <p>yvonne@chrisandyvonne.com <br />chris@chrisandyvonne.com</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="wd_footer_bottom_wrapper wd_toppadder50 wd_bottompadder50">
+                {/* <div class="wd_footer_bottom_wrapper wd_toppadder50 wd_bottompadder50">
                     <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style={{ display: "none" }}><i class="fa fa-long-arrow-up" aria-hidden="true"></i></a>
                     <div class="col-md-12">
                         <div class="wd_footer_section">
@@ -84,7 +84,7 @@ export default class ContactUs extends React.Component{
                             <p>@ Copyright 2017 All Rights Reserved. By Webstrot</p>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
 
         )

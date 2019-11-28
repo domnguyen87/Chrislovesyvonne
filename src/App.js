@@ -34,7 +34,7 @@ class App extends Component {
 
         <Rsvp />
         
-        <Family />
+        {/* <Family /> */}
         
         <PhotoGallery />
         

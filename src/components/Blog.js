@@ -24,7 +24,7 @@ export default class Blog extends React.Component {
                                     <div class="wd_blog_info">
                                         <h3>Planning Honeymoon Trip</h3>
                                         <ul>
-                                            <li><a href="#"><i class="fa fa-calendar-o" aria-hidden="true"></i> 05 October 2019</a></li>
+                                            <li><a href="#"><i class="fa fa-calendar-o" aria-hidden="true"></i> 05 October 2020</a></li>
                                             <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 240 View</a></li>
                                             <li><a href="#"><i class="fa fa-heart" aria-hidden="true"></i> 143 Likes</a></li>
                                         </ul>

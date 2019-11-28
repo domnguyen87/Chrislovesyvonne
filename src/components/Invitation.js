@@ -50,7 +50,7 @@ export default class Invitation extends React.Component {
                                     <div class="wd_about_infobox_date">
                                         <p>We inviting you and your family on</p>
                                         <h3>Saturday</h3>
-                                        <h2>05 October 2019</h2>
+                                        <h2>05 October 2020</h2>
                                         <p>At St. Thomas's Church, London, U.K.</p>
                                     </div>
                                     <div class="wd_btn wd_single_index_menu_rsvp">
